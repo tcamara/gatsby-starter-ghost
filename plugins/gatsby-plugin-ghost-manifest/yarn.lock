@@ -1040,10 +1040,10 @@ babel-plugin-dynamic-import-node@^2.3.3:
   dependencies:
     object.assign "^4.1.0"
 
-babel-preset-gatsby-package@0.12.0:
-  version "0.12.0"
-  resolved "https://registry.yarnpkg.com/babel-preset-gatsby-package/-/babel-preset-gatsby-package-0.12.0.tgz#477fa545f3b625ffe75f58b5a2772ce796633c8c"
-  integrity sha512-DFv+6UBnMJb3gvg3EvgyQTdXuN9gnTNoZtpuQdIWJU8FdUxS7qrcqVFywkJvh606/aI/BT/Ml7B4S32G0qUp1g==
+babel-preset-gatsby-package@1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/babel-preset-gatsby-package/-/babel-preset-gatsby-package-1.4.0.tgz#8484af86a28df6a67ce0cd3c2d0ec0d7c30106b8"
+  integrity sha512-OxwV2dRfKHqSlfmUMyGMOAi35fgR2Rdmjl7CiZ2WFPi9rilT0qj0N1/pvqSkDbk7RTXzlz2W7kg0cFMn749Dlw==
   dependencies:
     "@babel/plugin-proposal-nullish-coalescing-operator" "^7.12.1"
     "@babel/plugin-proposal-optional-chaining" "^7.12.1"
@@ -1054,7 +1054,7 @@ babel-preset-gatsby-package@0.12.0:
     "@babel/preset-flow" "^7.12.1"
     "@babel/preset-react" "^7.12.5"
     babel-plugin-dynamic-import-node "^2.3.3"
-    core-js "^3.7.0"
+    core-js "^3.10.0"
 
 balanced-match@^1.0.0:
   version "1.0.0"
@@ -1311,10 +1311,10 @@ core-js-compat@^3.8.0:
     browserslist "^4.16.1"
     semver "7.0.0"
 
-core-js@^3.7.0:
-  version "3.8.3"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.8.3.tgz#c21906e1f14f3689f93abcc6e26883550dd92dd0"
-  integrity sha512-KPYXeVZYemC2TkNEkX/01I+7yd+nX3KddKwZ1Ww7SKWdI2wQprSgLmrTddT8nw92AjEklTsPBoSdQBhbI1bQ6Q==
+core-js@^3.10.0:
+  version "3.11.2"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.11.2.tgz#af087a43373fc6e72942917c4a4c3de43ed574d6"
+  integrity sha512-3tfrrO1JpJSYGKnd9LKTBPqgUES/UYiCzMKeqwR1+jF16q4kD1BY2NvqkfuzXwQ6+CIWm55V9cjD7PQd+hijdw==
 
 core-util-is@~1.0.0:
   version "1.0.2"
